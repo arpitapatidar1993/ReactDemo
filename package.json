@@ -22,7 +22,7 @@
     "modules": "^0.4.0",
     "node": "^10.8.0",
     "react": "^0.13.3",
-    "react-router": "^0.13.3",
+    "react-router": "^6.4.4",
     "reactify": "^1.1.1",
     "vinyl-source-stream": "^2.0.0"
   },
